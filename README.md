@@ -4,6 +4,8 @@
 
 LPObfuscator is a simple graphical tool designed for obfuscating and deobfuscating DayZ PBO files. This tool provides a user-friendly interface to help you manipulate PBO files easily.
 
+https://www.youtube.com/watch?v=TuPopiKTRBA
+
 ## Features
 
 - Obfuscate PBO files by reversing the bytes within the file.
