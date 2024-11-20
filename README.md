@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=TuPopiKTRBA
 
 ## How to Use
 
-1. Download the latest release from the [Releases](https://github.com/<your_username>/<your_repository>/releases) page.
+1. Download the latest release from the [Releases] page.
 2. Extract the downloaded archive.
 3. Run the `LPObfuscator.exe` executable.
 
